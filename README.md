@@ -1,1 +1,2 @@
-# snams2022
+# Temporal Dynamics of User Engagement with U.S. News Sources on Facebook
+Our paper, "Temporal Dynamics of User Engagement with U.S. News Sources on Facebook," presented at SNAMS 2022, has been nominated as a best paper candidate of the conference. Additional analyses at other aggregation levels, which are not discussed in the conference paper, will be included in the upcoming journal version of our work. Please stay tuned for updates!
